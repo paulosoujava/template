@@ -9,11 +9,12 @@ Template  react-native versão vrs 0.55.4 utilizando o:
   - [Visual Studio Code](https://code.visualstudio.com/)
   
 Como clonar:
-
 **git clone https://github.com/paulosoujava/template.git**
 
-Após isso rode:
+Após isso:
+**cd/template**
 
+Após isso rode:
 **npm instal**
 
 ![](https://png.icons8.com/ios/1600/react-native-filled.png)
